@@ -5,7 +5,7 @@
     border: 1px solid #ccc;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    background-color: #e9f7ff; /* Light color for the container */
+    background-color: blueviolet; /* Light color for the container */
 }
 
 h1 {
